@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-ianvs",
+  "version": "0.0.1",
+  "description": "ESLint 1.0 Config with slight tweaks from Standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "sharable-config",
+    "config",
+    "standard"
+  ],
+  "author": "Ian VanSchooten",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^4.0.0-5"
+  },
+  "peerDependencies": {
+    "eslint": "^1.0.0"
+  }
+}
