@@ -5,7 +5,7 @@ ESLint 1.0 config with slight tweaks from Standard
 ## Install
 
 ```bash
-npm install --save-dev eslint-config-ianvs
+npm install --save-dev eslint-config-ianvs eslint-plugin-standard eslint-config-standard@^4.0.0-1
 ```
 
 ## Usage
