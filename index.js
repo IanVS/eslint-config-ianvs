@@ -6,7 +6,7 @@ module.exports = {
     'eqeqeq'                     : [2, 'smart'],
     'comma-dangle'               : [0],
     'consistent-return'          : [2],
-    'indent'                     : [2, 2, { 'SwitchCase': 1 }],
+    'indent'                     : [2, 2, { 'SwitchCase': 1, 'VariableDeclarator': 2 }],
     'key-spacing'                : [2, {'align': 'colon'}],
     'no-extra-semi'              : [2],
     'no-use-before-define'       : [2],
