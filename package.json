@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ianvs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ESLint 1.0 Config with slight tweaks from Standard",
   "main": "index.js",
   "scripts": {
