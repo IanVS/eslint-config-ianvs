@@ -2,7 +2,6 @@ module.exports = {
   'extends': 'standard',
 
   'rules': {
-    'block-scoped-var'           : [2],
     'brace-style'                : [2, '1tbs'],
     'eqeqeq'                     : [2, 'smart'],
     'comma-dangle'               : [0],
@@ -18,6 +17,7 @@ module.exports = {
     'space-before-function-paren': [2, {'anonymous' : 'always', 'named' : 'never'}],
     'spaced-comment'             : [2, 'always', { exceptions: ['-']}],
     'strict'                     : [2, 'global'],
+    'vars-on-top'                : [2],
     'wrap-iife'                  : [2, 'inside']
   },
 
