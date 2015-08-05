@@ -2,6 +2,7 @@ module.exports = {
   'extends': 'standard',
 
   'rules': {
+    'block-scoped-var'           : [2],
     'brace-style'                : [2, '1tbs'],
     'eqeqeq'                     : [2, 'smart'],
     'comma-dangle'               : [0],
